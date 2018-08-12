@@ -15,7 +15,7 @@ Helloworld hw = new Helloworld();
 
 Bienvenue dans la page <%= hw.getHelloWorld() %>
 
-<a href="./html.html">Lien vers le html</a>
+<a href="./html">Lien vers le html</a>
 
 </body>
 </html>
